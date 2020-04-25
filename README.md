@@ -10,3 +10,6 @@ like temperature, pressure and humidity are notified to all it's subscribers.
 CurrentConditionsDisplay and ForecastDisplay are observers that want to be notified
 of any changes in weather data, they also implement Display Element to display their
 relevant information.
+
+
+Note--> Example of this implementation has been taken from Book 'Head First Design Patterns'
