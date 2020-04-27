@@ -12,4 +12,5 @@ of any changes in weather data, they also implement Display Element to display t
 relevant information.
 
 
-Note--> Example of this implementation has been taken from Book 'Head First Design Patterns'
+Note --> 'Example Taken From The book HEAD First Design Patterns'
+
